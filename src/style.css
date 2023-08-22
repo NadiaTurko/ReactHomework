@@ -1,0 +1,28 @@
+* {
+  margin: o;
+  padding: 0;
+}
+h1 {
+  align-items: center;
+}
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+}
+table {
+  border-collapse: collapse;
+}
+tbody {
+  width: 500px;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 7px;
+  width: 200px;
+}
+
+li {
+  list-style: none;
+  letter-spacing: 1px;
+}
